@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 11:33:45</sys_created_on>
+        <sys_id>e3248e9a2f501110aed41e282799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_841193_terraform_metric.x_841193_terraform.user</sys_name>
+        <sys_package display_value="Terraform" source="x_841193_terraform">dd93829a2f501110aed41e282799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">dd93829a2f501110aed41e282799b6f7</sys_scope>
+        <sys_security_acl display_value="x_841193_terraform_metric">9f248e9a2f501110aed41e282799b65e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e3248e9a2f501110aed41e282799b662</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 11:33:45</sys_updated_on>
+        <sys_user_role display_value="x_841193_terraform.user" name="x_841193_terraform.user">9d93c29a2f501110aed41e282799b626</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">dd93829a2f501110aed41e282799b6f7</application>
+        <file_path/>
+        <instance_id>14ab40a4db082744b2e05d00cf96199b</instance_id>
+        <instance_name>dev71015</instance_name>
+        <name>sys_security_acl_role_e3248e9a2f501110aed41e282799b662</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 11:33:45</sys_created_on>
+        <sys_id>e3248e9a2f501110aed41e282799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_841193_terraform_metric.x_841193_terraform.user</sys_name>
+        <sys_package display_value="Terraform" source="x_841193_terraform">dd93829a2f501110aed41e282799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">dd93829a2f501110aed41e282799b6f7</sys_scope>
+        <sys_security_acl display_value="x_841193_terraform_metric">9f248e9a2f501110aed41e282799b65e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e3248e9a2f501110aed41e282799b662</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 11:33:45</sys_updated_on>
+        <sys_user_role display_value="x_841193_terraform.user" name="x_841193_terraform.user">9d93c29a2f501110aed41e282799b626</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>863291467</payload_hash>
+        <record_name>x_841193_terraform_metric.x_841193_terraform.user</record_name>
+        <reverted_from/>
+        <source>3ff80e122f901110aed41e282799b6fb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 11:55:10</sys_created_on>
+        <sys_id>191942522f901110aed41e282799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181a503fcfc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 11:55:10</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5519425217901110ee32630bab8061af</update_guid>
+        <update_guid_history>5519425217901110ee32630bab8061af:0,03064a5e85501110fedb244efa652678:-209508869,2b248e9aea5011106ea38c66e89b3e64:-1764256701</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_841193_terraform_metric.x_841193_terraform.user">0f5a8a922f901110aed41e282799b63d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 12:00:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>037d8122d0314b648302eafccde0f3e9</sys_id>
+        <sys_metadata>e3248e9a2f501110aed41e282799b662</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_841193_terraform_metric.x_841193_terraform.user</sys_name>
+        <sys_package display_value="Terraform" source="x_841193_terraform">dd93829a2f501110aed41e282799b6f7</sys_package>
+        <sys_parent display_value="x_841193_terraform_metric">9f248e9a2f501110aed41e282799b65e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">dd93829a2f501110aed41e282799b6f7</sys_scope>
+        <sys_scope_delete display_value="">6bf882d1348f4622948319cff02226d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e3248e9a2f501110aed41e282799b662</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e3248e9a2f501110aed41e282799b662">191942522f901110aed41e282799b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 12:00:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
