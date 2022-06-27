@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="asmt_metric_type" label="Metric" max_length="40" name="x_841193_terraform_metric" type="collection"/>
+</database>
